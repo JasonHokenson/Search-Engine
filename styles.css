@@ -1,0 +1,68 @@
+a:link{text-decoration: none;}
+ul{list-style-type: none;}
+
+span{
+   font: arial; 
+   color: blue;
+   font-weight: bold;
+   font-size: 20px;
+  margin: -37px;
+}
+header {
+    color: blue;
+    text-align: right;
+    font: sans-serif;
+    font-size: 14px;
+}
+.logo {
+    text-align: center;
+    margin-top: 230px;
+}
+.logo2 {text-align: left;}
+
+input{text-align: left;}
+
+.searchbar{
+    text-align: center;
+}
+.buttons{text-align: center;}
+
+#search
+{
+    height: 45px;
+    width: 500px;
+    border-radius: 15px;
+    font-size: 24px;
+}
+#button{
+    height: 35px;
+    width: 125px;
+    text-align: center;
+}
+h3{
+    margin-left: 30px;
+    margin-top: 40px;
+    color: red;
+    font: arial;
+    font-size: 18px;
+    font-weight: 200;
+
+
+}
+h4{
+    margin-left: 70px;
+    margin-top: 70px;
+    font: arial;
+    font-size: 18px;
+    font-weight: 200;
+}
+.textbox{
+    margin:20px;
+    width: 400px;
+    height: 20px;
+}
+
+.label{
+    margin: 20px;
+    margin-left: 70px;
+}
